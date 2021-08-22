@@ -25,6 +25,7 @@ Hello i'm NOX  :)
   <a href="https://www.youtube.com/channel/UCSbSI17zspEJxxT5KhOAfeA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:NOX3R.frontend@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-    [!img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/NOX3Rpy/NOX3Rpy/blob/output/github-contribution-grid-snake.svg)
  
 </div>
